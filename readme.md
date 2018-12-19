@@ -1,12 +1,12 @@
 ## pyenv 
 
-**install **
+**install**
 
 ```
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 ```
 
-**환경변수 설정 **
+**환경변수 설정**
 
 ```comman
 $ echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bashrc

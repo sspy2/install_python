@@ -34,11 +34,18 @@ $ pyenv versions # 사용가능한 파이썬 버전 리스트 출력
 ### Install packages
 
 ```command
+$ pip install flask
 $ pip install bs4 # beautiful soup
 $ pip install requests
 ```
 
 
+
+### flask setting
+
+```command
+echo 'export FLASK_ENV=development' >> ~/.bashrc
+```
 
 
 

@@ -44,7 +44,7 @@ $ pip install requests
 ### flask setting
 
 ```command
-echo 'export FLASK_ENV=development' >> ~/.bashrc
+$ echo 'export FLASK_ENV=development' >> ~/.bashrc
 ```
 
 
